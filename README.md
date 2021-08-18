@@ -26,4 +26,4 @@ Meu nome é Pedro Henrique Ferreira de Sousa, estudante de programação e tecno
   
   ##
   
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="MPedreen" />   
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue" alt="MPedreen" />   

@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Pedro Henrique Ferreira de Sousa, estudante de programação e tecnologia. Cursando Sistemas de Informação na Universidade Estácio de Sá - 4° período.
+Meu nome é Pedro Henrique Ferreira de Sousa, estudante de programação e tecnologia. Cursando Sistemas de Informação na Universidade Estácio de Sá - 5° período.
 
 - 🌱 Estudando C#
 

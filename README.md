@@ -2,6 +2,9 @@
 
 Meu nome é Pedro Henrique Ferreira de Sousa, atualmente trabalhando como dev na Infis Consultoria. Cursando Sistemas de Informação na Universidade Estácio de Sá - 6° período.
 
+- Aprimorando meus conhecimentos em C#.
+- Aprendendo e evoluindo em Angular.
+
 <div>
   <a href="https://github.com/MPedreen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MPedreen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

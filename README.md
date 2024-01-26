@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Pedro Henrique Ferreira de Sousa, atualmente trabalhando como dev na Infis Consultoria. Cursando Sistemas de Informação na Universidade Estácio de Sá - 6° período.
+Meu nome é Pedro Henrique Ferreira de Sousa, atualmente trabalhando como desenvolvedor na Infis Consultoria. Formado em Sistemas de Informação na Universidade Estácio de Sá.
 
 - Aprimorando meus conhecimentos em C#.
 - Aprendendo e evoluindo em Angular.

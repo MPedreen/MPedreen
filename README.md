@@ -1,9 +1,8 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Pedro Henrique Ferreira de Sousa, atualmente trabalhando como desenvolvedor na Infis Consultoria. Graduado em Sistemas de Informação na Universidade Estácio de Sá.
+Graduado em Sistemas de Informação, com um forte interesse em desenvolvimento de software e um foco específico em boas práticas de desenvolvimento, incluindo SOLID, DDD e Padrões de Projeto, utilizando a linguagem C# e todo o ecossistema .NET. Meu objetivo é aplicar esses conhecimentos em projetos desafiadores e impactantes.
 
-- Aprimorando meus conhecimentos em C#.
-- Aprendendo e evoluindo em Angular.
+Atualmente, trabalho como desenvolvedor, onde aplico diariamente minhas habilidades em C#, .NET, SQL Server e Angular para criar soluções de qualidade para nossos clientes. Estou comprometido em aprender continuamente e desenvolver minhas habilidades técnicas e de comunicação para crescer na carreira de desenvolvedor.
 
 <div>
   <a href="https://github.com/MPedreen">

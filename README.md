@@ -1,16 +1,6 @@
-### Olá! seja bem vindo(a) ao meu GitHub 👋
+### 💻 Desenvolvedor FullStack | C# & .NET | Angular
 
-💻 Desenvolvedor Full Stack | C# & .NET | Angular
-
-O que eu ofereço:
-
-🛠️ Utilização das Melhores Práticas: Sempre estudei sobre aplicação do SOLID, OOP e às metodologias Ágeis para produzir código limpo e de fácil manutenção.
-
-💻 Agilidade Técnica: Proficiente em C#, capaz de criar aplicações sofisticadas com soluções eficientes e duradouras.
-
-🗄️ Proficiência em SQL e MongoDB: Modelagem de banco de dados e integração de dados com uso constante do Entity Framework Core.
-
-🌐 Conhecimento em Angular: Capaz de desenvolver interfaces intuitivas, garantindo uma boa experiência ao usuário, como suporte à minha principal atuação em back-end.
+Sou um desenvolvedor FullStack, focado em escrever código limpo e escalável, aplicando princípios SOLID e OOP. Tenho experiência com SQL, MongoDB e Entity Framework Core para modelagem e integração de dados, além de outras tecnologias detalhadas no meu LinkedIn. Também possuo conhecimento em Angular, permitindo a criação de interfaces intuitivas e funcionais.
 
 <br/>
   
